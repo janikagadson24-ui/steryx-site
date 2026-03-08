@@ -9,9 +9,7 @@ Updated package includes:
 Files:
 - index.html
 - services.html
--<p class="muted">
-SteryX Medical Solutions, LLC is a healthcare solutions company created to support modern healthcare organizations through reliable, professional, and innovation-driven services.
-</p>
+-<p <img class="brand-logo" src="assets/steryx-badge.png" alt="SteryX logo">
 
 <p class="muted">
 Founded by a Nurse Practitioner with multiple years of healthcare experience, SteryX was built on a strong understanding of healthcare systems, operational needs, and the importance of dependable support services.
