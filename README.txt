@@ -1,16 +1,26 @@
 
-STERYX WEBSITE PACKAGE
+STERYX WEBSITE V2
 
-Files included:
+Updated package includes:
+- new silver / navy / teal color palette
+- badge logo added to header, hero, about page, and footer
+- refreshed corporate healthcare styling
+
+Files:
 - index.html
 - services.html
 - about.html
 - contact.html
 - style.css
-- assets/teal-healthcare-network.png
+- assets/steryx-badge.png
+- assets/teal-network-bg.png
 
-How to use:
-1. Unzip the folder.
-2. Upload the files to your web host or deployment platform.
-3. Open index.html to preview locally in a browser.
-4. Replace placeholder contact details in contact.html.
+After upload:
+1. Replace placeholder email and phone in contact.html
+2. Redeploy in Vercel through GitHub
+
+
+V3 updates:
+- stronger premium hero with credibility stats
+- capability statement section added to homepage
+- company data panel for contract-ready look
